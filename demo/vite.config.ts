@@ -9,7 +9,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      '@hooksmith/hooks': resolve(__dirname, '../packages/hooks/src/index.ts'),
+      'hook-forge': resolve(__dirname, '../packages/hooks/src/index.ts'),
     },
   },
 });

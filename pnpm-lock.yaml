@@ -62,7 +62,7 @@ importers:
 
   demo:
     dependencies:
-      '@hooksmith/hooks':
+      hook-forge:
         specifier: workspace:*
         version: link:../packages/hooks
       react:

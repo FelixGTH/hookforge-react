@@ -12,7 +12,7 @@ import {
   useIntersectionObserver,
   useResizeObserver,
   useUndo,
-} from '@hooksmith/hooks';
+} from 'hook-forge';
 
 // ─── useToggle ───────────────────────────────────────────────────────────────
 
