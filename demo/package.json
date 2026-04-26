@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "hook-forge": "workspace:*",
+    "hookforge-react": "workspace:*",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
   },

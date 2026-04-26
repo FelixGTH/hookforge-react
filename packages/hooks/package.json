@@ -1,5 +1,5 @@
 {
-  "name": "hook-forge",
+  "name": "hookforge-react",
   "version": "0.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

@@ -12,7 +12,7 @@ import {
   useIntersectionObserver,
   useResizeObserver,
   useUndo,
-} from 'hook-forge';
+} from 'hookforge-react';
 
 // ─── useToggle ───────────────────────────────────────────────────────────────
 

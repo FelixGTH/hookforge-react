@@ -3,16 +3,16 @@
 React hooks I built for my own projects — properly typed, tested, and ready to drop in.
 No dependencies beyond React itself.
 
-![npm](https://img.shields.io/npm/v/hook-forge)
+![npm](https://img.shields.io/npm/v/hookforge-react)
 ![CI](https://img.shields.io/github/actions/workflow/status/your-username/hooksmith/ci.yml)
 ![coverage](https://img.shields.io/codecov/c/github/your-username/hooksmith)
 
 ## Install
 
 ```bash
-npm install hook-forge
+npm install hookforge-react
 # or
-pnpm add hook-forge
+pnpm add hookforge-react
 ```
 
 Requires React 18+.

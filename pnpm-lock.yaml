@@ -62,7 +62,7 @@ importers:
 
   demo:
     dependencies:
-      hook-forge:
+      hookforge-react:
         specifier: workspace:*
         version: link:../packages/hooks
       react:
